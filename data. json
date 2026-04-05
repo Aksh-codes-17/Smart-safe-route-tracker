@@ -1,0 +1,8 @@
+{
+  "edges": [
+    {"from": "A", "to": "B", "distance": 5, "crime": 3, "lighting": 2},
+    {"from": "B", "to": "C", "distance": 4, "crime": 1, "lighting": 3},
+    {"from": "A", "to": "C", "distance": 10, "crime": 5, "lighting": 1},
+    {"from": "C", "to": "D", "distance": 3, "crime": 2, "lighting": 4}
+  ]
+}
